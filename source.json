@@ -1,6 +1,6 @@
 
 {
-  "name": "DELORE CRMP",
+  "name": "DELORE GAMES",
   "identifier": "com.delore.games.online",
   "subtitle": "Официальный каталог Delore Online",
   "description": "Каталог IPA-приложений проекта Delore Online.",
@@ -18,7 +18,7 @@
       "category": "games",
       "versions": [
         {
-          "version": "1.0.0",
+          "version": "1.8.2",
           "buildVersion": "1",
           "date": "2026-10-22",
           "localizedDescription": "Первый релиз Delore Online для iOS.",
