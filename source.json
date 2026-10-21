@@ -29,5 +29,14 @@
       ]
     }
   ],
-  "news": []
+  "news": [{
+    "title": "Delore Online теперь на iOS!",
+    "identifier": "delore-ios-release",
+    "caption": "Первая версия Delore Online для iPhone и iPad",
+    "date": "2026-10-22",
+    "tintColor": "FFC355",
+    "notify": true,
+    "imageURL": "https://devfriski.github.io/ipa-repo/news-test.png",
+    "url": "https://t.me/delorecrmp"
+  }]
 }
