@@ -16,7 +16,7 @@
       "iconURL": "https://devfriski.github.io/ipa-repo/icon.png",
       "tintColor": "888888",
       "category": "games",
-      "screenshotURLs": [
+      "screenshots": [
         "https://devfriski.github.io/ipa-repo/screen1.png",
         "https://devfriski.github.io/ipa-repo/screen2.png",
         "https://devfriski.github.io/ipa-repo/screen3.png",
