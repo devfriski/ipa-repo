@@ -10,12 +10,19 @@
     {
       "name": "Delore Online",
       "bundleIdentifier": "com.delore.games.online",
-      "developerName": "Delore Online",
-      "subtitle": "Мобильная CRMP игра",
-      "localizedDescription": "Delore Online — многопользовательская CRMP игра для мобильных устройств.",
+      "developerName": "DELORE GAMES",
+      "subtitle": "Здесь ты можешь стать кем захочешь: обычным работягой, криминальным авторитетом, успешным предпринимателем или президентом страны. Решай сам, какой путь ты выберешь. Исследуй различные локации, создавай свои правила и наслаждайся непредсказуемой жизнью большого мегаполиса. Игра относится к мультиплеерам CRMP & SAMP",
+      "localizedDescription": "DELORE ONLINE - Онлайн игра",
       "iconURL": "https://devfriski.github.io/ipa-repo/icon.png",
       "tintColor": "888888",
       "category": "games",
+      "screenshotURLs": [
+        "https://devfriski.github.io/ipa-repo/screen1.png",
+        "https://devfriski.github.io/ipa-repo/screen2.png",
+        "https://devfriski.github.io/ipa-repo/screen3.png",
+        "https://devfriski.github.io/ipa-repo/screen4.png",
+        "https://devfriski.github.io/ipa-repo/screen5.png",
+      ],
       "versions": [
         {
           "version": "1.8.2",
@@ -24,13 +31,6 @@
           "localizedDescription": "Первый релиз Delore Online для iOS.",
           "downloadURL": "https://github.com/devfriski/ipa-repo/releases/download/v1.0.0/delore.ipa",
           "size": 59842941,
-          "screenshotURLs": [
-            "https://static.rustore.ru/2026/2/2/51/apk/2063523106/content/SCREENSHOT/473f420a-df4b-470f-b65a-b375dab0f233.png",
-            "https://static.rustore.ru/2026/2/2/09/apk/2063523106/content/SCREENSHOT/e008657f-0900-415f-91bf-9d1b62064b46.png",
-            "https://static.rustore.ru/2026/2/2/8b/apk/2063523106/content/SCREENSHOT/8320f3ed-89b5-48e7-bf37-557dc8de85e0.png",
-            "https://static.rustore.ru/2026/2/2/c5/apk/2063523106/content/SCREENSHOT/19d0e39a-56d7-4e94-945a-ac6b1c109994.png",
-            "https://static.rustore.ru/2026/2/2/21/apk/2063523106/content/SCREENSHOT/1da8c094-6769-4aba-8868-899f4e2e0fe8.png"
-          ],
           "minOSVersion": "15.0"
         }
       ]
