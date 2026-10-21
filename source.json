@@ -1,0 +1,33 @@
+
+{
+  "name": "DELORE CRMP",
+  "identifier": "com.delore.games.online",
+  "subtitle": "Официальный каталог Delore Online",
+  "description": "Каталог IPA-приложений проекта Delore Online.",
+  "sourceURL": "https://devfriski.github.io/ipa-repo/source.json",
+  "iconURL": "https://devfriski.github.io/ipa-repo/icon.png",
+  "apps": [
+    {
+      "name": "Delore Online",
+      "bundleIdentifier": "com.delore.games.online",
+      "developerName": "Delore Online",
+      "subtitle": "Мобильная CRMP игра",
+      "localizedDescription": "Delore Online — многопользовательская CRMP игра для мобильных устройств.",
+      "iconURL": "https://devfriski.github.io/ipa-repo/icon.png",
+      "tintColor": "007AFF",
+      "category": "games",
+      "versions": [
+        {
+          "version": "1.0.0",
+          "buildVersion": "1",
+          "date": "2026-10-22",
+          "localizedDescription": "Первый релиз Delore Online для iOS.",
+          "downloadURL": "https://github.com/devfriski/ipa-repo/releases/download/v1.0.0/delore.ipa",
+          "size": 59842941,
+          "minOSVersion": "15.0"
+        }
+      ]
+    }
+  ],
+  "news": []
+}
